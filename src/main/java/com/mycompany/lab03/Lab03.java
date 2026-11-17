@@ -7,8 +7,8 @@ public class Lab03 {
 
         Student student1 = new Student();
 
-        student1.name = "Fahim";
-        student1.id = "252-15-139";
+        student1.name = "Nahid";
+        student1.id = "252-15-247";
         student1.displayInfo();
 
         
